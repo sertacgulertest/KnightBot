@@ -1,0 +1,22 @@
+{
+    "Blue Pearl": {
+        "ignored": false,
+        "image_path": ""
+    },
+    "Red Pearl": {
+        "ignored": false,
+        "image_path": ""
+    },
+    "MP POT": {
+        "ignored": false,
+        "image_path": "images/mpPot.PNG"
+    },
+    "HP POT": {
+        "ignored": false,
+        "image_path": "images/hpPot.PNG"
+    },
+    "Shard": {
+        "ignored": false,
+        "image_path": "images/shard.PNG"
+    }
+}
